@@ -1,0 +1,59 @@
+12.6363 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+14.1003 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002871C1B41C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002871C1B4160>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002871C1A3D00>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002871C704160>, multiSample=False, name='window1', numSamples=2, pos=(1920, 8), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.1004 	EXP 	window1: mouseVisible = True
+14.1004 	EXP 	window1: backgroundImage = ''
+14.1004 	EXP 	window1: backgroundFit = 'none'
+14.1020 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.1021 	EXP 	window1: recordFrameIntervals = False
+14.2664 	EXP 	window1: recordFrameIntervals = True
+14.4499 	EXP 	Screen (0) actual frame rate measured at 60.05Hz
+14.4500 	EXP 	window1: recordFrameIntervals = False
+14.4501 	EXP 	window1: mouseVisible = False
+18.4538 	EXP 	simple_targte_distractor: status = STARTED
+18.4544 	EXP 	window1: mouseVisible = True
+18.5213 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+0.0054 	EXP 	window1: mouseVisible = True
+0.0102 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([-0.19986642, -0.274297  ]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0103 	EXP 	window1: mouseVisible = True
+0.0128 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([ 0.01898346, -0.18911291]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0129 	EXP 	window1: mouseVisible = True
+0.0149 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([0.12182946, 0.37272506]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0150 	EXP 	window1: mouseVisible = True
+0.0169 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([-0.23346353,  0.23641013]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0170 	EXP 	window1: mouseVisible = True
+0.0190 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([-0.30719144,  0.19383988]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0191 	EXP 	window1: mouseVisible = True
+0.0211 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([-0.40088172, -0.29092349]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0211 	EXP 	window1: mouseVisible = True
+0.0231 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([0.49074886, 0.48626017]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0232 	EXP 	window1: mouseVisible = True
+0.0256 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([ 0.28598838, -0.39804655]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0257 	EXP 	window1: mouseVisible = True
+0.0278 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([-0.22515235, -0.29896426]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0279 	EXP 	window1: mouseVisible = True
+0.0303 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distractor', opacity=1.0, ori=0.0, pos=array([0.33546934, 0.48445616]), rgb=UNKNOWN, text='l', units='height', win=Window(...), wrapWidth=1)
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	distractor: autoDraw = True
+0.0409 	EXP 	target: autoDraw = True
+6.1627 	EXP 	simple_targte_distractor: status = STOPPED
+6.1790 	EXP 	target: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1790 	EXP 	distractor: autoDraw = False
+6.1791 	EXP 	simple_targte_distractor: status = STOPPED
+6.2080 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\builder\dialogs\__init__.py", line 1853, in onOK
+    self.updateSummary()
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\app\builder\dialogs\__init__.py", line 1742, in updateSummary
+    _c, _n = data.importConditions(self.conditionsFileAbs.strip(),
+  File "C:\Program Files\PsychoPy\lib\site-packages\psychopy\data\utils.py", line 385, in importConditions
+    ws = wb.worksheets[0]
+IndexError: list index out of range
